@@ -32,8 +32,17 @@ Create a line chart that illustrates the monthly trend of total orders throughou
 This chart will allow us to identify peak months or periods of high order activity.
 
 3. Percentage of Sales by Pizza Category:
-Create a pie chart that shows the of sales across diffèrent pizza categories. 
+Create a pie chart that shows the percentage of sales across different pizza categories. 
 This chart will provide insights into the popularity of various pizzas and their overall sales.
+
+4. Percentage of Sales by Pizza Category:
+Create a pie chart that shows the percentage of sales across different pizza sizes.
+
+5. Total pizzas sold by pizza category:
+Create a funnel chart that shows the total pizzas sold by pizza category.
+
+6. Best/Worst pizzas by revenue, quantity and total orders:
+Create clustered bar chars to display top 5 and bottom 5 pizzas by by revenue, quantity and total orders.
 
 #### DATASOURCE 
 

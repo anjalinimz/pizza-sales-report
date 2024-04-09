@@ -14,7 +14,7 @@ Specifically, the customer wants to calculate the following metrics:
 
 4. Total Orders: The total number of orders placed.
 
-5. Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas 
+5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas 
 sold by the total number of orders.
 
 

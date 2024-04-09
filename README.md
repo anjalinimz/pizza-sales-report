@@ -28,8 +28,8 @@ Create a bar chart that displays the daily trend of total orders over a specific
 This chart will help us identify any patterns or in-order volumes on a daily basis.
 
 2. Monthly Trend for Total Orders:
-Create a line chart that illustrates the hourly trend of total orders throughout the day. 
-This chart will allow us to identify peak hours or periods of high order activity.
+Create a line chart that illustrates the monthly trend of total orders throughout the day. 
+This chart will allow us to identify peak months or periods of high order activity.
 
 3. Percentage of Sales by Pizza Category:
 Create a pie chart that shows the of sales across diffèrent pizza categories. 
